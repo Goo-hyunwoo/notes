@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "d315dcefbab39aeb",
+    "id": "9e343f9fd519bb89",
     "type": "split",
     "children": [
       {
-        "id": "4dd1e807f85598de",
+        "id": "37b2a0569c7773d7",
         "type": "tabs",
         "children": [
           {
-            "id": "065a5b4aa2536fb9",
+            "id": "6ac775c1339db308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/React Native.md",
+                "file": "Spaces/Home/자료구조 - 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a7cf11ec45670c9",
+    "id": "77c22b3515f9751e",
     "type": "split",
     "children": [
       {
-        "id": "06435ffd978bd309",
+        "id": "22500ef097b4dec7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d06091314f57a77",
+            "id": "8d1952ae153cbe54",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "0b8d5d1e08e129b4",
+            "id": "8ae61ed1b61f88f7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "7a2a10b55181ec4c",
+            "id": "d1f4a5b7eef8dac2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,15 +66,7 @@
             }
           },
           {
-            "id": "b2d0dc809cf7af1d",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "14e1f59d6dbc2d7e",
+            "id": "04c77fb7edb70559",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,27 +74,27 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "30a81c40fcef4b7b",
+    "id": "c661c18770993b9d",
     "type": "split",
     "children": [
       {
-        "id": "3cdc29fc537d481a",
+        "id": "8e58d7fa8b431d92",
         "type": "tabs",
         "children": [
           {
-            "id": "9a942e0318e1cdc7",
+            "id": "7896cc270948383e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/React Native.md",
+                "file": "Spaces/Home/자료구조 - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,19 +106,19 @@
             }
           },
           {
-            "id": "0b92f7e33e23ff74",
+            "id": "d9cae84ccbccedba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/React Native.md",
+                "file": "Spaces/Home/자료구조 - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2269a2ee744f8494",
+            "id": "2acd1c58fe291714",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +129,12 @@
             }
           },
           {
-            "id": "ade269bfb9fe7771",
+            "id": "489dc610224f35e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/React Native.md"
+                "file": "Spaces/Home/자료구조 - 1.md"
               }
             }
           }
@@ -163,19 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "065a5b4aa2536fb9",
+  "active": "6ac775c1339db308",
   "lastOpenFiles": [
-    "Spaces/Home/알고리즘 - 1.md",
-    "Spaces/Home/React Native.md",
-    "Spaces/Home/자료구조 - 1.md",
-    "Paste.md",
-    "Spaces/계산량함수증가율.jpg",
-    "Welcome.md",
     "Spaces/Home/컴퓨터구조 - 1.md",
-    "Spaces/Home/운영체제 - 1.md",
-    "Spaces/Home/데이터베이스 - 1.md",
-    "[.md",
-    "Spaces/Home",
-    "Spaces"
+    "Spaces/Home/React Native.md",
+    "Spaces/Home/데이터베이스 - 2.md"
   ]
 }
