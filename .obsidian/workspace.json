@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc8c3975c5c0432",
+        "id": "1439af6dabfd9afe",
         "type": "tabs",
         "children": [
           {
-            "id": "51104a39137fbf4d",
+            "id": "9f92bbf2901508b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51104a39137fbf4d",
+  "active": "9f92bbf2901508b0",
   "lastOpenFiles": [
+    "Spaces/Home/자료구조 - 2.md",
+    "Spaces/Home/운영체제 - 2.md",
+    "Spaces/Home/운영체제 - 1.md",
     "Spaces/Home/컴퓨터구조 - 2.md",
+    "Spaces/Home/React Native.md",
     "Spaces/Home/자료구조 - 1.md",
     "Spaces/Home/데이터베이스 - 2.md",
-    "Spaces/Home/컴퓨터구조 - 1.md",
-    "Spaces/Home/React Native.md"
+    "Spaces/Home/컴퓨터구조 - 1.md"
   ]
 }
